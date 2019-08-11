@@ -1,6 +1,6 @@
 # 🐍 Python Scripts 🐍
 
-I upload here all Python 2.x and 3.x Code Snippets, that I find useful and helpful. 🐍
+In this Repository, I upload all Python 2.x and 3.x Code Snippets, that I find useful and helpful. 🐍
 
 **⚠️ Be Warned that some Scripts are not suited for beginners ⚠️**
 
